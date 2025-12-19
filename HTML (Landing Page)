@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Our Projects</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Our Projects Section -->
+  <section class="projects-section">
+    <h2>Our Projects</h2>
+
+    <div id="projects-container" class="projects-container">
+      <!-- Projects will load here dynamically -->
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
